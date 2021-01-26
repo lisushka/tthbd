@@ -5,12 +5,14 @@
 * [**PyConline 2020**](https://youtube.com/watch?v=UnJ9MgmKrGg), 2020-09-05 (open captions)
 * [**Melbourne Ruby**](https://youtube.com/watch?v=wPlDNZtQ6QM), 2020-02-26 (closed captions)
 
-## References for accessible design
+## References
 
-## Website examples
+### Accessible design
 
-* arngren.net
-* Ling's Cars
-* Github
+### Website examples
+
+* [**arngren.net**](http://arngren.net) - bad design
+* [**Ling's Cars**](https://lingscars.com/) [PHOTOSENSITIVITY WARNING] - distinctive design
+* [**Github**](https://github.com) - good design
 
 ## Images
