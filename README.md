@@ -10,7 +10,7 @@
 ### Website examples
 
 * [**arngren.net**](http://arngren.net) - bad design
-* [**Ling's Cars** PHOTOSENSITIVITY WARNING](https://lingscars.com/) - distinctive design
+* [**Ling's Cars** [PHOTOSENSITIVITY WARNING]](https://lingscars.com/) - distinctive design
 * [**Github**](https://github.com) - good design
 
 ### Accessible design
