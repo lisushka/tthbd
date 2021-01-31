@@ -30,7 +30,7 @@
 
 ### What's That News?
 
-* [Cal Montgomery's Twitter thread on NCIL's Paul say briefing](https://twitter.com/Cal__Montgomery/status/1285034180397748230)
+* [Cal Montgomery's Twitter thread on the National Council on Independent Living's 'Paul say briefing'](https://twitter.com/Cal__Montgomery/status/1285034180397748230)
 
 ### Hacking an Artificial Pancreas
 
