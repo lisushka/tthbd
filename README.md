@@ -31,14 +31,15 @@
 ### What's That News?
 
 * [Cal Montgomery's Twitter thread on the National Council on Independent Living's 'Paul say briefing'](https://twitter.com/Cal__Montgomery/status/1285034180397748230)
-* [Guardian podcasts: why no transcripts?](https://www.theguardian.com/help/insideguardian/2009/apr/14/blogpost), *The Guardian Australia*
+* [Guardian podcasts: why no transcripts?](https://www.theguardian.com/help/insideguardian/2009/apr/14/blogpost), *The Guardian Australia*, 2009-04-14
 
 ### Hacking an Artificial Pancreas
 
-*
-*
-*
-*
+* [Diabetics are hunting down obsolete insulin pumps with a security flaw](https://nakedsecurity.sophos.com/2019/05/01/diabetics-are-hunting-down-obsolete-insulin-pumps-with-a-security-flaw/), **Lisa Vaas**, *Naked Security*, 2019-05-01
+* [Some Medtronic Insulin Pumps Vulnerable to Hacker Attacks](https://www.securityweek.com/some-medtronic-insulin-pumps-vulnerable-hacker-attacks), **Eduard Kovacs**, *Security Week*, 2019-06-28
+* [FDA issues new alert on Medtronic insulin pump security](https://www.healthcareitnews.com/news/fda-issues-new-alert-medtronic-insulin-pump-security), **Benjamin Harris**, *Healthcare IT News*, 2019-07-01
+* [These Hackers Made an App That Kills to Prove a Point](https://www.wired.com/story/medtronic-insulin-pump-hack-app/), **Lily Hay Newman**, *WIRED*, 2019-07-16
+* [Medtronic recalls vulnerable MiniMed insulin pumps](https://www.helpnetsecurity.com/2019/06/28/hackable-medtronic-insulin-pumps-recall/), **Zeljka Zorz**, *Help Net Security*, 2019-06-28
 
 ## Images
 
