@@ -56,3 +56,5 @@
 - [**Sign Language (sign language interpreter at a public presentation)**](http://bit.ly/tthbd55), Eric Eggert (CC-BY 2.0)
 - [**Medtronic MiniMed Insulin Pump**](http://bit.ly/tthbd64), jwskks5786 (free for commercial use)
 - [**Accessibility Roomba**](http://bit.ly/tthbd75), Travelling Cat Studios (used with permission)
+
+[Back to main talks repo](https://github.com/lisushka/talks)
