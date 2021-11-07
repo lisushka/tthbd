@@ -2,8 +2,8 @@
 
 ## Presentations
  
-* [**PyCon AU 2020**](https://youtube.com/watch?v=UnJ9MgmKrGg), 2020-09-05 (open captions)
-* [**Melbourne Ruby**](https://youtube.com/watch?v=wPlDNZtQ6QM), 2020-02-26 (closed captions)
+* [**PyCon AU 2020**](https://youtube.com/watch?v=UnJ9MgmKrGg), 2020-09-05 (open captions, [transcript](transcript-pycon2021.md))
+* [**Melbourne Ruby**](https://youtube.com/watch?v=wPlDNZtQ6QM), 2020-02-26 (closed captions, [transcript](transcript-melbruby.md))
 
 ## References
 
