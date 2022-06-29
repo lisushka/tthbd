@@ -18,11 +18,12 @@
 * [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [A11y Project Accessibility Checklist](https://a11yproject.com/checklist/)
 * [US Federal Plain Language Guidelines](https://plainlanguage.gov/guidelines/)
-* [List of tools for accessibility testing](https://www.w3.org/WAI/ER/tools/)
 * [Kristy Viers' iPhone accessibility demonstration](https://twitter.com/Kristy_Viers/status/1287189581926981634)
-* [Colour Oracle Desktop Filter](http://colororacle.org)
-* [Basic Screen Reader Commands](https://developer.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
-* [Photosensitive Epilepsy Analysis Tool](https://trace.umd.edu/peat)
+* [List of tools for accessibility testing](https://www.w3.org/WAI/ER/tools/)
+    * [axe-core accessibility testing engine](https://github.com/dequelabs/axe-core)
+    * [Colour Oracle Desktop Filter](http://colororacle.org)
+    * [Basic Screen Reader Commands](https://developer.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
+    * [Photosensitive Epilepsy Analysis Tool](https://trace.umd.edu/peat)
 
 ### Red Fish, Green Fish, Catfish
 
