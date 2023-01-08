@@ -25,6 +25,10 @@
     * [Colour Oracle Desktop Filter](http://colororacle.org)
     * [Basic Screen Reader Commands](https://developer.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
     * [Photosensitive Epilepsy Analysis Tool](https://trace.umd.edu/peat)
+    
+### 'I need a human screen reader'
+
+* [Readability CLI](https://gitlab.com/gardenappl/readability-cli), a CLI implementation of the Firefox Reader Mode
 
 ### Red Fish, Green Fish, Catfish
 
