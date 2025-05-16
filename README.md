@@ -11,7 +11,7 @@
 ### Website examples
 
 * [**arngren.net**](http://arngren.net) - bad design
-* [**Ling's Cars** [PHOTOSENSITIVITY WARNING]](https://lingscars.com/) - distinctive design
+* [**Ling's Cars** [PHOTOSENSITIVITY WARNING]](https://museum.lingscars.com/) - distinctive design
 * [**Github**](https://github.com) - good design
 
 ### Accessible design
@@ -25,12 +25,16 @@
     * [Colour Oracle Desktop Filter](http://colororacle.org)
     * [Basic Screen Reader Commands](https://developer.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
     * [Photosensitive Epilepsy Analysis Tool](https://trace.umd.edu/peat)
+
+### How this goes wrong, part 2
+
+* [Robles v Domino's Pizza LLC - appeal court judgement](https://cdn.ca9.uscourts.gov/datastore/opinions/2019/01/15/17-55504.pdf)
     
 ### 'I need a human screen reader'
 
 * [Readability CLI](https://gitlab.com/gardenappl/readability-cli), a CLI implementation of the Firefox Reader Mode
 
-### Red Fish, Green Fish, Catfish
+### This fish, that fish, grey fish? Catfish! (formerly Red Fish, Green Fish, Catfish)
 
 * [Zach 'Sneaky' Scuderi's tweet on Tahm Kench's grey health](https://twitter.com/Sneaky/status/623598093674483712)
 
@@ -61,6 +65,6 @@
 - [**Im Dong-Hyun**](http://bit.ly/tthbd47), Ian Patterson (CC BY 2.0)
 - [**Sign Language (sign language interpreter at a public presentation)**](http://bit.ly/tthbd55), Eric Eggert (CC BY 2.0)
 - [**Medtronic MiniMed Insulin Pump**](http://bit.ly/tthbd64), jwskks5786 (free for commercial use)
-- [**Accessibility Roomba**](http://bit.ly/tthbd75), Travelling Cat Studios (used with permission)
+- [**Accessibility Roomba**](http://bit.ly/tthbd75), Annie Braxton (used with permission)
 
 [Back to main talks repo](https://github.com/lisushka/talks)
