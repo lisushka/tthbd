@@ -2,6 +2,7 @@
 
 ## Presentations
 
+* [**PyCon US 2025**](https://www.youtube.com/watch?v=JcwpExu6LWI), 2025-05-16 (auto-generated captions only, CC BY-NC-SA 4.0)
 * [**DDD Perth 2022**](https://youtube.com/watch?v=7xTrVqtU0to), 2022-09-10 (closed captions, [transcript](transcript-dddperth2022.md), CC BY-NC-SA 4.0)
 * [**PyCon AU 2020**](https://youtube.com/watch?v=UnJ9MgmKrGg), 2020-09-05 (open captions, [transcript](transcript-pycon2021.md), CC BY-NC-SA 4.0)
 * [**Melbourne Ruby**](https://youtube.com/watch?v=wPlDNZtQ6QM), 2020-02-26 (closed captions, [transcript](transcript-melbruby.md), CC BY-SA 4.0)
